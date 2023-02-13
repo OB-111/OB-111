@@ -1,3 +1,5 @@
+<img align="right" alt="Coding" width="400" src="https://images.pexels.com/photos/4164418/pexels-photo-4164418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2">
+
 Dynamic and highly motivated recent graduate with a Bachelor's degree in Computer Science and a passion for full-stack development.
 Possessing a strong foundation in software design, programming, and testing, combined with experience in developing applications using various technologies.
 Seeking a Junior Full Stack Position where I can leverage my technical skills and knowledge to contribute to the success of a team and continuously grow as a developer.
@@ -61,6 +63,7 @@ Seeking a Junior Full Stack Position where I can leverage my technical skills an
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+
 💻 IDEs/Editors:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
