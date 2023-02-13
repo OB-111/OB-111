@@ -1,12 +1,9 @@
 
-<p align = "center">
- Hello World
-</p>
 Dynamic and highly motivated recent graduate with a Bachelor's degree in Computer Science and a passion for full-stack development.
 Possessing a strong foundation in software design, programming, and testing, combined with experience in developing applications using various technologies.
+
 Seeking a Junior Full Stack Position where I can leverage my technical skills and knowledge to contribute to the success of a team and continuously grow as a developer.
 
-![Omri's GitHub stats](https://github-readme-stats.vercel.app/api?username=OB-111&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OB-111&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 🧑‍💻 I worked on several projects using the technologies:
