@@ -3,6 +3,7 @@ Possessing a strong foundation in software design, programming, and testing, com
 Seeking a Junior Full Stack Position where I can leverage my technical skills and knowledge to contribute to the success of a team and continuously grow as a developer.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OB-111&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OB-111&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OB-111)](https://github.com/anuraghazra/github-readme-stats)
 🧑‍💻 I worked on several projects using the technologies:
 HTML | CSS | JavaScript | NodeJS | NestJS | Solidity | React  | TypeScript | SQL | Oracle | MongoDB | Express | RestApi | Linux | Git & GitHub.
