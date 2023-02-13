@@ -88,4 +88,5 @@ Seeking a Junior Full Stack Position where I can leverage my technical skills an
  If you're aware of any opportunities, please let me know!
 Always happy to connect :)
 
+
 📩 bitanomri@gmail.com
