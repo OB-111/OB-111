@@ -4,7 +4,6 @@ Seeking a Junior Full Stack Position where I can leverage my technical skills an
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OB-111&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OB-111)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OB-111&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 🧑‍💻 I worked on several projects using the technologies:
 HTML | CSS | JavaScript | NodeJS | NestJS | Solidity | React  | TypeScript | SQL | Oracle | MongoDB | Express | RestApi | Linux | Git & GitHub.
 
