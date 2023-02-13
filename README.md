@@ -1,10 +1,15 @@
-### Hi there 👋
+Dynamic and highly motivated recent graduate with a Bachelor's degree in Computer Science and a passion for full-stack development.
+Possessing a strong foundation in software design, programming, and testing, combined with experience in developing applications using various technologies.
+Seeking a Junior Full Stack Position where I can leverage my technical skills and knowledge to contribute to the success of a team and continuously grow as a developer.
 
-**OB-111/OB-111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🧑‍💻 I worked on several projects using the technologies:
+HTML | CSS | JavaScript | NodeJS | NestJS | Solidity | React  | TypeScript | SQL | Oracle | MongoDB | Express | RestApi | Linux | Git & GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning React-Redux 
-- 👯 I’m looking for FullStack / Backend Role 
-- 📫 How to reach me: bitanomri@gmail.com
+
+🔎 I'm currently searching for Full Stack / Backend Developer positions in Tel Aviv and the Central District area. 
+
+ If you're aware of any opportunities, please let me know!
+Always happy to connect :)
+
+📩 bitanomri@gmail.com
