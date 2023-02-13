@@ -1,6 +1,6 @@
 
-[![MasterHead]("https://images.pexels.com/photos/4164418/pexels-photo-4164418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2")]("https://github.com")
-
+<img align="right" alt="Full stack Developer" width="1000" src="[add your link 
+  here](https://images.pexels.com/photos/4164418/pexels-photo-4164418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)">
 Dynamic and highly motivated recent graduate with a Bachelor's degree in Computer Science and a passion for full-stack development.
 Possessing a strong foundation in software design, programming, and testing, combined with experience in developing applications using various technologies.
 Seeking a Junior Full Stack Position where I can leverage my technical skills and knowledge to contribute to the success of a team and continuously grow as a developer.
