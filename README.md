@@ -1,4 +1,5 @@
-<img align="right" alt="Coding" width="400" src="https://images.pexels.com/photos/4164418/pexels-photo-4164418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2">
+
+[![MasterHead]("https://images.pexels.com/photos/4164418/pexels-photo-4164418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2")]("https://github.com")
 
 Dynamic and highly motivated recent graduate with a Bachelor's degree in Computer Science and a passion for full-stack development.
 Possessing a strong foundation in software design, programming, and testing, combined with experience in developing applications using various technologies.
