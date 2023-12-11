@@ -1,5 +1,5 @@
 
-Dynamic and highly motivated recent graduate with a Bachelor's degree in Computer Science and a passion for full-stack development.
+Dynamic and highly motivated  graduate with a Bachelor's degree in Computer Science and a passion for full-stack development.
 Possessing a strong foundation in software design, programming, and testing, combined with experience in developing applications using various technologies.
 
 Seeking a Junior Full Stack Position where I can leverage my technical skills and knowledge to contribute to the success of a team and continuously grow as a developer.
